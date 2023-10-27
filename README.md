@@ -1,1 +1,2 @@
-"# In this project, Iïm going to build a basic HTML website" 
+"# Hi! In this project, IÃ¯m going to build a basic HTML website" <br>
+ link here! https://santiago-otero.github.io/odin-recipes/
